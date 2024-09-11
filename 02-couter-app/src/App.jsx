@@ -3,9 +3,17 @@ import { useState } from "react";
 function App() {
 	const [counter, setCounter] = useState(0);
 	const addOnClick = () => {
+		if (counter === 20) {
+			alert("Can't increment beyond 20");
+			return;
+		}
 		setCounter(counter + 1);
 	};
 	const removeOnClick = () => {
+		if (counter === 0) {
+			alert("Can't decrement beyond 0");
+			return;
+		}
 		setCounter(counter - 1);
 	};
 	return (
