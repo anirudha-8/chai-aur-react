@@ -1,3 +1,6 @@
 [submodule "02-couter-app"]
 	path = 02-couter-app
 	url = https://github.com/anirudha-8/counter-app-using-react.git
+[submodule "03-app-to-learn-tailwind-and-props-in-react"]
+	path = 03-app-to-learn-tailwind-and-props-in-react
+	url = https://github.com/anirudha-8/app-to-learn-tailwind-basics-and-props-in-react.git
