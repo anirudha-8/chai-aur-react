@@ -4,3 +4,6 @@
 [submodule "03-app-to-learn-tailwind-and-props-in-react"]
 	path = 03-app-to-learn-tailwind-and-props-in-react
 	url = https://github.com/anirudha-8/app-to-learn-tailwind-basics-and-props-in-react.git
+[submodule "04-bg-changer"]
+	path = 04-bg-changer
+	url = https://github.com/anirudha-8/react-app-bg-changer.git
