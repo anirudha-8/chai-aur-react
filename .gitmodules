@@ -7,3 +7,6 @@
 [submodule "04-bg-changer"]
 	path = 04-bg-changer
 	url = https://github.com/anirudha-8/react-app-bg-changer.git
+[submodule "05-password-generator"]
+	path = 05-password-generator
+	url = https://github.com/anirudha-8/react-app-password-generator.git
