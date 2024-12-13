@@ -11,3 +11,5 @@
 ### 4. Background Changer
 
 ### 5. Password Generator
+
+### 6. Currency Convertor
