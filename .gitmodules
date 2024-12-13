@@ -10,3 +10,6 @@
 [submodule "05-password-generator"]
 	path = 05-password-generator
 	url = https://github.com/anirudha-8/react-app-password-generator.git
+[submodule "06-currency-converter"]
+	path = 06-currency-converter
+	url = https://github.com/anirudha-8/06-currency-converter.git
